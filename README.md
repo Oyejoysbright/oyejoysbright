@@ -12,7 +12,7 @@ Expert in:
 # Java
 # React Native
 # Typescript
-# Amongst others, especially web development.
+Amongst others, especially web development.
 <!--
 **Oyejoysbright/oyejoysbright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
